@@ -5,7 +5,7 @@ class Program
     static int accountBalance = 1000; // Saldo inicial de la cuenta
     static Random random = new Random();
 
-    static void Main(string[] args)
+    static void Main(string[] args) 
     {
         Console.WriteLine("¡Bienvenido al cajero automático!");
         Console.WriteLine($"Cuentas con ${accountBalance} pesos");
