@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AppConHilosATM")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6bc551c106a0151876d515505a073ba63773dc54")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+041d4082ea4755322749ed60b0e657cbc180ac7d")]
 [assembly: System.Reflection.AssemblyProductAttribute("AppConHilosATM")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AppConHilosATM")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
